@@ -1,0 +1,7 @@
+Esta es información que va dentro de mi documento...
+
+Take me down to the paradise city, where the grass is green and the girls are pretty...
+Momento esquizo
+Cómo salir de Vim?
+
+Ctrl x, exit 
